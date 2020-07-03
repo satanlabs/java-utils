@@ -1,2 +1,2 @@
-# java-utils
-Maven central repo for all mundane-repetitive things
+# arithmetic
+Example library for tutorial on publishing to Maven Central with OSSRH
